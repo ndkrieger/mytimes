@@ -88,7 +88,7 @@ nav a{
 }
 
 .lead-story .image-content {
-    background-image: url("../images/img-story-main.png");
+    background-image: url("./resources/images/img-story-main.png");
     margin-top: 0;
     font-size: 40px;
     text-align: left;
